@@ -6,14 +6,21 @@ Presentation for the Associated Collegiate Press 2017 San Francisco Midwinter Co
 
 Slides: https://docs.google.com/presentation/d/11wmCbXJ8CjUAnt8k7A_j3-v2vybphhvh5NHISbA-EM8/
 
-Spreadsheet of resources:
 
-https://docs.google.com/spreadsheets/d/19JBRi8H9wMNhyvDOUGFOft9N1CafAb37QAMeittQTK8/edit#gid=1520524663
+# Contents
 
+- [Getting involved](#getting-involved)
+- [Lists, resources, news for data journalism](#resource-list)
+- [Datasets, databases, and data portals](#datasets-bases)
+- [How-tos and Reflections](#howtos)
+- [Stories and projects](#projects-stories)
+- [Examples of student work](#student-work)
 
-## How to get started doing data journalism
+<a id="getting-involved"></a>
 
-Other than learn how to use a spreadsheet, and to use it everyday for all of your note and record taking (journalism related or not), join a crowdsourced project, help them build data for the public, and get first-hand experience of how the nitty-gritty of data collection becomes the fuel for accountability stories.
+## How to get involved with data journalism
+
+Other than learning how to use a spreadsheet and to use it everyday for all of your note and record taking (journalism related or not) -- if you want to do data journalism, then join a crowdsourced project. Help them build data for the public, and get first-hand experience of how the nitty-gritty of data collection becomes the fuel for accountability stories.
 
 A few ongoing, nationwide projects:
 
@@ -25,7 +32,7 @@ A few ongoing, nationwide projects:
 
 
 
-
+<a id="resource-list"></a>
 
 ## Resources/Lists/News
 
@@ -71,8 +78,9 @@ Widely considered the most prestigious of the Pulitzer Prizes, awarded for the b
 [Data is Plural Newsletter](http://tinyletter.com/data-is-plural/archive)
 A weekly newsletter of useful/curious datasets, curated by BuzzFeed Data Editor Jeremy Singer Vine.
 
+<a id="datasets-bases"></a>
 
-## Datasets and data portals
+## Databases, datasets, and data portals
 
 If only finding data were the hard part of data journalism. But knowing what data exists, and being able to at least "touch" (i.e download) it, is a great  first step.
 
@@ -127,7 +135,7 @@ With state and local government secrecy on the rise in many U.S. jurisdictions, 
 [FEC Campaign Finance](http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?tabIndex=1&candidateCommitteeId=P80001571)
 A great example of accessible, important, interesting, and voluminous government data. 
 
-
+<a id="howtos"></a>
 
 ## How-tos and Reflections
 
@@ -209,10 +217,10 @@ For the savvy college journalist looking to get an exclusive scoop, public recor
 
 
 [Tracking Title IX Investigations](https://source.opennews.org/articles/tracking-title-ix-investigations/)
-Why we rebuilt a news app we launched just a few months earlier
+
+[How The Chronicle made college sexual violence data more accessible](http://datadrivenjournalism.net/news_and_analysis/how_the_chronicle_made_college_sexual_violence_data_more_accessible ) 
 
 
-How The Chronicle made college sexual violence data more accessible http://datadrivenjournalism.net/news_and_analysis/how_the_chronicle_made_college_sexual_violence_data_more_accessible 
 [The Stories of Everyday Lives, Hidden in Reams of Data](https://www.propublica.org/nerds/item/the-stories-of-everyday-lives-hidden-in-reams-of-data)
 Data journalists use data to tell stories that help readers make better choices and live better lives.
 
@@ -233,7 +241,9 @@ Five days after the shooting at Sandy Hook Elementary School, President Barack O
 The site is a simple, old newspaper concept that’s been fundamentally redesigned for the web. We’ve taken the political “truth squad” story, where a reporter takes a campaign commercial or a stump speech, fact checks it and writes a story. We’ve taken that concept, blown it apart into it’s fundamental pieces, and reassembled it into a data-driven website covering the 2008 presidential election.
 
 
-A Data Journalist’s Life: Interview with Sarah Cohen | News & Analysis | Data Driven Journalism http://datadrivenjournalism.net/news_and_analysis/A_Data_Journalists_Life_Interview_with_Sarah_Cohen  
+[A Data Journalist’s Life: Interview with Sarah Cohen](http://datadrivenjournalism.net/news_and_analysis/A_Data_Journalists_Life_Interview_with_Sarah_Cohen  )
+
+
 [Research chat: Sarah Cohen of the New York Times on the state of data journalism and what reporters need to know - Journalist's Resource](https://journalistsresource.org/studies/society/news-media/research-chat-new-york-times-sarah-cohen-state-data-journalism-what-reporters-need-know)
 2014 conversation with a leading practitioner of data journalism. Cohen is editor of computer-assisted reporting at the New York Times and board president of Investigative Reporters & Editors.
 
@@ -283,7 +293,7 @@ An exhaustive reference to problems seen in real-world data along with suggestio
 More than 1 million patients suffer harm each year in U.S. health care facilities. Often, their harm isn’t acknowledged even as they live with the consequences. ProPublica set out to capture their stories. Here is what we learned.
 
 
-
+<a id="projects-stories"></a>
 
 ## Projects and Stories
 
@@ -395,9 +405,11 @@ Documents obtained by the Daily Breeze from the Los Angeles County Office of Edu
 On Friday at noon, a Category 5 political cyclone that few journalists saw coming will deposit Donald Trump atop the Capitol Building, where he’ll be sworn in as the 45th president of the United St…
 
 
+<a id="student-work"></a>
+
 ## Student data journalism
 
-Students ostensibly have the same access to public data and records as professionals. A few examples of student work, both individual and collaborative, that took an empirical approach to journalism:
+Students ostensibly have the same access to public data and records as professionals and thus, the same potential for high-impact work. A few examples of student work, both individual and collaborative, that took an empirical approach to journalism:
 
 [News21: America’s Weed Rush](http://weedrush.news21.com/data/)
 Explore America's Weed Rush data
