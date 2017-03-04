@@ -7,10 +7,25 @@ Slides: https://docs.google.com/presentation/d/11wmCbXJ8CjUAnt8k7A_j3-v2vybphhvh
 
 #### Contents
 
-
+[How They Did It](#how-they-did-it)
+[Resources](#Resources)
 
 
 ## How they did it
 
 ## Resources
 
+### Things to Read
+
+### Interesting data
+
+#### Interactive databases
+
+#### Datasets
+
+
+### Tools
+
+Google Spreadsheets
+
+SQLite 
