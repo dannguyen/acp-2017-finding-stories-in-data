@@ -26,9 +26,9 @@ Data entry is always dull, but it is **always necessary**. Might as well get int
 
 A few ongoing, nationwide projects:
 
-- [Fatal Encounters](http://www.fatalencounters.org/) - Well before Ferguson, this project -- started by a single, curious journalist -- recognized the severe deficiency of data on police shootings.
-- [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes) - ProPublica's initiative to count hate crimes and bias incidents and create a national dataset. 
-- [TrumpWorld](https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld) - BuzzFeed has logged more than 1,500 of the Trump Administration's business and personal connections. Use their spreadsheet and help them find more connections. 
+- [Fatal Encounters](http://www.fatalencounters.org/) - A project started by an independent journalist who recognized long before Ferguson how pitiful the official record-keeping was for police shootings.
+- [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes) - ProPublica's initiative to collect and count hate crimes and bias incidents and to create a national dataset. 
+- [TrumpWorld](https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld) - BuzzFeed has logged more than 1,500 of the Trump Administration's business and personal connections. Use their spreadsheet and help them find more connections. ([Github repo](https://github.com/BuzzFeedNews/trumpworld))
 
 
 
