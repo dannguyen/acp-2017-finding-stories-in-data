@@ -22,6 +22,8 @@ Slides: https://docs.google.com/presentation/d/11wmCbXJ8CjUAnt8k7A_j3-v2vybphhvh
 
 Other than learning how to use a spreadsheet and to use it everyday for all of your note and record taking (journalism related or not) -- if you want to do data journalism, then join a crowdsourced project. Help them build data for the public, and get first-hand experience of how the nitty-gritty of data collection becomes the fuel for accountability stories.
 
+Data entry is always dull, but it is **always necessary**. Might as well get into it by doing data entry for a great journalistic purpose.
+
 A few ongoing, nationwide projects:
 
 - [Fatal Encounters](http://www.fatalencounters.org/) - Well before Ferguson, this project -- started by a single, curious journalist -- recognized the severe deficiency of data on police shootings.
