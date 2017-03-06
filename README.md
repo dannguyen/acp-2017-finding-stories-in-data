@@ -29,7 +29,7 @@ A few ongoing, nationwide projects:
 - [Fatal Encounters](http://www.fatalencounters.org/) - A project started by an independent journalist who recognized long before Ferguson how pitiful the official record-keeping was for police shootings.
 - [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes) - ProPublica's initiative to collect and count hate crimes and bias incidents and to create a national dataset. 
 - [TrumpWorld](https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld) - BuzzFeed has logged more than 1,500 of the Trump Administration's business and personal connections. Use their spreadsheet and help them find more connections. ([Github repo](https://github.com/BuzzFeedNews/trumpworld))
-
+- [OpenElections](http://docs.openelections.net/getting-involved/) - Believe it or not, America's elections do not produce a convenient, centralized source of data. This project aims to create the "most comprehensive election results data in human history".
 
 
 
