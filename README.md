@@ -18,7 +18,7 @@ Slides: https://docs.google.com/presentation/d/11wmCbXJ8CjUAnt8k7A_j3-v2vybphhvh
 
 <a id="getting-involved"></a>
 
-## How to get involved with data journalism
+## Get involved with crowdsourced data journalism
 
 Other than learning how to use a spreadsheet and to use it everyday for all of your note and record taking (journalism related or not) -- if you want to do data journalism, then join a crowdsourced project. Help them build data for the public, and get first-hand experience of how the nitty-gritty of data collection becomes the fuel for accountability stories.
 
